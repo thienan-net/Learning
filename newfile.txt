@@ -1,3 +1,4 @@
 removed
 new content added
 this is a test
+this is a new line to demonstrate staging
